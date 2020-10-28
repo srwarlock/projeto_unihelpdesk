@@ -1,2 +1,2 @@
 # projeto_unihelpdesk
-Projeto de um trabalho de faculdade
+Projeto de um trabalho de faculdade em php.
